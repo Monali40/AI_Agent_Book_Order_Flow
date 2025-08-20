@@ -23,6 +23,11 @@ Google form : https://docs.google.com/forms/d/e/1FAIpQLSdh72Tvfk8f2M0pZ7myGNR3jO
 ----
 Google sheet drive link : https://docs.google.com/spreadsheets/d/1T8I36VH6zDpXcLG4M7dtUnUVobsu9nFKoFZQEXaM1ac/edit?usp=sharing
 ---
+Notion Data Base : 
+
+<img width="1577" height="306" alt="image" src="https://github.com/user-attachments/assets/be392ad0-83d1-4ba3-98a7-dd9b38184424" />
+
+---
 ## ⚡ Flow Overview  
 1. **Collect orders** → Google Form  
 2. **Store responses** → Google Sheet  
