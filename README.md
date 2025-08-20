@@ -18,7 +18,10 @@ I rewrote your example (book order fulfillment) into clear **steps with headings
 This project shows how to **automate book order fulfillment** using **Make.com**, **Google Forms**, **Google Sheets**, Gmail, and **Notion CRM** — so you don’t have to manually manage orders, send confirmation emails, or update your team.  
 
 ---
-
+Please find 
+Google form : https://docs.google.com/forms/d/e/1FAIpQLSdh72Tvfk8f2M0pZ7myGNR3jOMmAlEeOvpQcjhKeuDPKbP1yA/viewform?usp=sharing&ouid=109019141859164543455
+Google sheet drive link : https://docs.google.com/spreadsheets/d/1T8I36VH6zDpXcLG4M7dtUnUVobsu9nFKoFZQEXaM1ac/edit?usp=sharing
+---
 ## ⚡ Flow Overview  
 1. **Collect orders** → Google Form  
 2. **Store responses** → Google Sheet  
@@ -94,7 +97,9 @@ This sheet will be updated automatically whenever someone fills out the form.
 ## ✅ Benefits  
 - **Zero manual work** → form to email to Notion runs automatically.  
 - **Team visibility** → all orders visible in Notion CRM.  
-- **Scalable** → Works for 10 or 10,000 book requests.  
+- **Scalable** → Works for 10 or 10,000 book requests.
+
+
 
 
 
